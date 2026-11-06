@@ -1,0 +1,9 @@
+http://localhost/eistonpaketleme/eiston-yonetim/login.php
+
+Kullanıcı Adı: eiston_admin
+Şifre: Eiston2024!Guvenli
+
+
+MySQL veritabanı adı eistonpaket
+kullanıcı adı admin4290paket
+veritabanı şifre :  h/&e0G;O3
